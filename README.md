@@ -1,8 +1,8 @@
 # Follow these instructions to create a setup in your system:
 
 1. git clone https://github.com/yadav20khushi/Book_Trailer_Multi_Agents.git
-2. pull origin main
-2. pip install requirements.txt
+2. git pull origin main
+2. pip install -r requirements.txt
 3. Create a .env file
 4. To put the book title name, in the agents.py;
 
